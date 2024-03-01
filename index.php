@@ -30,6 +30,9 @@
                 <a href="https://twitter.com/PeterLegierski" class="twitter-follow-button" data-show-count="false">Follow @PeterLegierski</a>
                 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
             </div>
+            <h5>
+                This is compatible with manifest v3.
+            </h5>
             <h3>Convert bookmarklet to Chrome extension</h3>
             <form action="package.php" method="post" name="form">
                 <input type="text" name="name" placeholder="Name">
